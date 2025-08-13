@@ -1,0 +1,2 @@
+Hello world. A tiny file for quick tests.
+Words repeat repeat repeat.

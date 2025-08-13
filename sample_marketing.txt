@@ -1,0 +1,5 @@
+Discover powerful text comparison today.
+Our lightweight analyzer delivers insight, clarity, and fast similarity scoring.
+Simple setup. Immediate value. Actionable data.
+This technical sample emphasizes performance, memory usage, and algorithmic clarity.
+Templates, iterators, and STL containers (vector, set, unordered_map) enable expressive code.

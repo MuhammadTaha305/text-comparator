@@ -1,0 +1,4 @@
+C++ text comparison utilities often tokenize strings, normalize casing, and compute set-based metrics.
+This technical sample emphasizes performance, memory usage, and algorithmic clarity.
+Templates, iterators, and STL containers (vector, set, unordered_map) enable expressive code.
+Similarity metrics like Jaccard quickly highlight lexical overlap while ignoring ordering.

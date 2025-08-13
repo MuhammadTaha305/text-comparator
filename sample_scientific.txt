@@ -1,0 +1,3 @@
+Experimental evaluation of textual similarity involves preprocessing: tokenization, stopword filtering, and normalization.
+This scientific abstract style sample references methodology, metrics, and reproducibility.
+High lexical precision facilitates meaningful Jaccard coefficient interpretation.
