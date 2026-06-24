@@ -141,3 +141,10 @@ Words only in doc2.txt: 38
 ## License
 
 This is a simple educational project. Feel free to modify and use as needed.
+
+## Authors
+
+Built collaboratively by:
+- **[Muhammad Taha](https://github.com/MuhammadTaha305)**
+- **Maier Ali**
+- **Aytesam Sohail**
